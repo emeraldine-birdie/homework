@@ -3,7 +3,7 @@ package com.arrays.continue_the_sequence;
 import java.util.Arrays;
 
 public class SequenceD {
-    //Продолжить следующий числовой ряд: 1,  8, 27,  64, 125...
+    //Продолжить следующий числовой ряд: 1,  8,  27,  64,  125...
     public static void main(String[] args) {
         System.out.println(Arrays.toString(createArrayOfIntegers(5)));
     }

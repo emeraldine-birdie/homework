@@ -1,5 +1,10 @@
 package com.multithreading.operators.number_systems;
 
+/*
+Реализовать логику метода convertToDecimalSystem, который должен переводить
+переданную строку в десятичное число и возвращать его в виде строки
+*/
+
 public class ConvertToDecimal {
 
     public static void main(String[] args) {
